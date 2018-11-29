@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">MyToDo</string>
+
+    <string name="appmsg1"> What do you want TODO now?</string>
+    <string name="appmsg2"> Do you want to delete this item? Click Yes if you are done.</string>
+    <string name="appmsg3"> Are you sure to give up this edit? Your unsaved edit will be discarded if you click Yes.</string>
+
+    <string name="titlemsg1"> Done with the TODO?</string>
+    <string name="titlemsg2"> Discard changes?</string>
+    <string name="optionmsg1"> Yes</string>
+    <string name="optionmsg3"> No</string>
+
+    <string name="button1"> +</string>
+    <string name="button2"> Save</string>
+    <string name="button3"> Cancel</string>
+
+</resources>
